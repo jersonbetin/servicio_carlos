@@ -45,8 +45,7 @@ function start(){
 
 var server = {
   configuration: {
-    host: "localhost",
-    port: "3000"
+    host: "http://servidor-carlos.herokuapp.com"
   },
   start: start
 }
